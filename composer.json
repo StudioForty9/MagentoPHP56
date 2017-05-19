@@ -1,0 +1,13 @@
+{
+    "name": "eliaskotlyar/magento-php56",
+    "type": "magento-module",
+    "description": "EliasKotlyar MagentoPHP56 module",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "authors":[
+        {
+            "name":"EliasKotlyar"
+        }
+    ]
+}
